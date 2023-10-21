@@ -210,6 +210,7 @@
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 * [Kubernetes para Devs Javascript](https://www.youtube.com/playlist?list=PLqFwRPueWb5ccEFVx5vOvrKlYT_uQ3aQw) - Erick Wendel, Lucas Santos
 * [Testes no NodeJS aplicando TDD com Jest](https://www.youtube.com/watch?v=2G_mWfG0DZE) - Diego Fernandes
+* [Teach yourself javascript](https://vulms.vu.edu.pk/Courses/CS202/Downloads/JavaScript%20Book.pdf) - Phil Ballard
 
 
 #### React
